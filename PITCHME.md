@@ -8,7 +8,7 @@
 
 ---
 
-'''
+```
 class Test
 {
 public:
@@ -17,7 +17,7 @@ public:
 private:
     int a;
 };
-'''
+```
 
 ---
 @title[Customize Slide Layout]
