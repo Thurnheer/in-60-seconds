@@ -7,6 +7,19 @@
 ![](assets/img/presentation.png)
 
 ---
+
+'''
+class Test
+{
+public:
+    Test(){}
+
+private:
+    int a;
+};
+'''
+
+---
 @title[Customize Slide Layout]
 
 @snap[west span-50]
